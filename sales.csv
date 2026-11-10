@@ -1,0 +1,16 @@
+sales_id,region,revenue,units_sold
+S001,North,5000,120
+S002,South,-1,0
+S003,East,7200,180
+S004,West,-1,0
+S005,North,6100,155
+S006,South,4300,110
+S007,East,-1,0
+S008,West,5800,140
+S009,North,7000,175
+S010,South,3900,95
+S011,East,6500,160
+S012,West,-1,0
+S013,North,5500,130
+S014,South,4700,115
+S015,East,8000,200   
