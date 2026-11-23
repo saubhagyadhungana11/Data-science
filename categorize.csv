@@ -1,0 +1,11 @@
+id,department,salary,years,notes
+1,Engineering,95000,5,
+2,Engineering,105000,8,
+3,Marketing,72000,3,
+4,Marketing,68000,2,
+5,HR,65000,4,
+6,Engineering,110000,10,
+7,HR,70000,6,
+8,Marketing,,1,missing salary
+9,Engineering,abc,7,bad salary
+10,HR,67000,3,
